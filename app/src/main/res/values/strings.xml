@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealityCheck</string>
+    <string name="zombie_text">Congrats you\'ve been a zombie %d times!</string>
+</resources>
